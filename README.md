@@ -125,7 +125,7 @@ r.MoveJ(p(3.71469,-430.862,500.489,-179.861,3.3803,-179.992),[25.7617,1.8996,-94
 r.MoveJ(p(30.2054,-430.862,51.997,-179.861,3.3803,-179.992),[27.0464,-17.1299,-126.619,2.4267,-39.2881,24.9885],[0,0,0])
 r.RunMessage(r"""Detach from Gripper RobotiQ 85 Opened""",True)
 r.ProgFinish(r"""PICKANDPLACE""")
-r.ProgSave(r"""C:/Users/Jayashree Rao/OneDrive/Documents/RoboDK""",r"""PICKANDPLACE""",True,r"""C:/Users/Jayashree Rao/Downloads/apps/RoboDK/Other/VSCodium/VSCodium.exe""")
+r.ProgSave(r"""D:\RoboDK\Posts""",r"""PICKANDPLACE""",True,r"""D:\RoboDK\Other\VSCodium\VSCodium.exe""")
 ```
 ### RESULTS :  
 Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
