@@ -79,6 +79,9 @@ Right click the target and select Target Options… (F3) to open the target opti
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/75234588/173732321-f64d77f4-58ef-4408-ad79-6a16c34b30ea.png)
 
+![Screenshot (102)](https://user-images.githubusercontent.com/75234588/173732698-d81bde22-be76-4bd2-80c8-9ec59d5402af.png)
+
+
 
 ### PROGRAM 
  ```python
